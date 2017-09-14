@@ -13,4 +13,4 @@ ___
 >>>
 >:smile:
 >>:date:
-![logo1.jpg]
+![](logo1.jpg)
